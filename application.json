@@ -1,5 +1,8 @@
 {
   "appIsExample": false,
+  "appLayout": {
+    "type": "MOBILE"
+  },
   "applicationDetail": {
     "appPositioning": {
       "type": "FIXED"
@@ -18,14 +21,17 @@
   "icon": "globe",
   "pages": [
     {
-      "id": "Page1",
-      "isDefault": false
-    },
-    {
       "id": "Public.users",
       "isDefault": true
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
     }
   ],
+  "unpublishedAppLayout": {
+    "type": "MOBILE"
+  },
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"

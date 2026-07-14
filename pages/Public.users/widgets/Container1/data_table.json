@@ -22,18 +22,22 @@
     }
   },
   "columnOrder": [
+    "customColumn1",
     "id",
     "name",
     "email",
-    "created_at",
-    "customColumn1"
+    "created_at"
   ],
   "columnSizeMap": {
     "status": 75,
     "step": 62,
     "task": 245
   },
-  "columnUpdatedAt": 1784041692416,
+  "columnUpdatedAt": 1784046485193,
+  "columnWidthMap": {
+    "id": 60,
+    "name": 122
+  },
   "defaultPageSize": 0,
   "defaultSelectedRowIndex": "0",
   "delimiter": ",",
@@ -199,7 +203,7 @@
       "labelColor": "#FFFFFF",
       "menuColor": "#03B365",
       "onClick": "{{showModal('Delete_Modal')}}",
-      "sticky": "right",
+      "sticky": "",
       "width": 150
     },
     "email": {
