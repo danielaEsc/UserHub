@@ -3,7 +3,7 @@
   "autoGenerateForm": true,
   "backgroundColor": "#fff",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 46,
+  "bottomRow": 60,
   "boxShadow": "none",
   "childStylesheet": {
     "ARRAY": {
