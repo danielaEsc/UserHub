@@ -22,18 +22,18 @@
     }
   },
   "columnOrder": [
-    "customColumn1",
     "id",
     "name",
     "email",
-    "created_at"
+    "created_at",
+    "customColumn1"
   ],
   "columnSizeMap": {
     "status": 75,
     "step": 62,
     "task": 245
   },
-  "columnUpdatedAt": 1784046485193,
+  "columnUpdatedAt": 1784046626266,
   "columnWidthMap": {
     "id": 60,
     "name": 122
